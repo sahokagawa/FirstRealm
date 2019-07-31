@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var textField: UITextField!
     
 //   ② テーブルに表示するデータを保持した配列
+//    Item型の配列
     var items: [Item] = []
     
     

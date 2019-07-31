@@ -7,5 +7,7 @@ target 'FirstRealm' do
 
   # Pods for FirstRealm
 pod 'RealmSwift'
+pod 'IQKeyboardManagerSwift'
+
 
 end
